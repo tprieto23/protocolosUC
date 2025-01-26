@@ -22,4 +22,5 @@ from nltk.corpus import stopwords
 stopwords_es = set(stopwords.words('spanish')) # Definir una lista de palabras vacías ('stopwords') en español utilizando la librería NLTK
 abecedario = list(string.ascii_lowercase) # Crear una lista con las letras del alfabeto en minúscula utilizando la librería string
 random_words = ['uniandeseduco', 'cr', 'abc','in', 'siempre','enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 'julio', 'agosto', 'septiembre', 'octubre', 'noviembre', 'diciembre', 'día', 'mes', 'año', 'wwwbienestarunaleduco', 'bienestarbogotaunaleducoadjuntos__rompiendo', 'va', 'i', 'ii', 'iii', 'vi', 'debe', 'v', 'iv', 'vii', 'vii', 'ix', 'to', 'nº', 'pro', 'na', 'nas', 'pag', 'http', 'sf','co', 'así', 'sí','cada','si','través', 'ser', 'wwwwomenslinkworldwideorgwlwbajarfs', 'omegsdmujergovcoindexphparticulosviolenciasdigitalesgroomingsextorsionciberacosoyphishing', 'lynett']
-#print(stopwords_es, '\n', abecedario)
+
+
